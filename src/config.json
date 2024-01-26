@@ -499,6 +499,13 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "metacas.io",
+    "metamask-webrestores.webflow.io",
+    "dogrulamaentegre.com",
+    "metacas.io",
+    "bnbfarming.finance",
+    "btcetftoken.io",
+    "smartdappnodes.pages.dev",
     "jitoquest.com",
     "metamkilogino.webflow.io",
     "scrollmat.club",
